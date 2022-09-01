@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1418](https://github.com/jquense/yup/issues/1418) in [jquense/yup](https://github.com/jquense/yup)
-2. ❌ Closed PR [#101](https://github.com/zynth17/vitailse/pull/101) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-3. ❌ Closed PR [#100](https://github.com/zynth17/vitailse/pull/100) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-4. ❌ Closed PR [#99](https://github.com/zynth17/vitailse/pull/99) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-5. ❌ Closed PR [#92](https://github.com/zynth17/vitailse/pull/92) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-6. ❌ Closed PR [#98](https://github.com/zynth17/vitailse/pull/98) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-7. ❌ Closed PR [#97](https://github.com/zynth17/vitailse/pull/97) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-8. ❌ Closed PR [#95](https://github.com/zynth17/vitailse/pull/95) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-9. ❌ Closed PR [#94](https://github.com/zynth17/vitailse/pull/94) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-10. ❌ Closed PR [#87](https://github.com/zynth17/vitailse/pull/87) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+1. 💪 Opened PR [#3912](https://github.com/logaretm/vee-validate/pull/3912) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+2. 🗣 Commented on [#1418](https://github.com/jquense/yup/issues/1418) in [jquense/yup](https://github.com/jquense/yup)
+3. ❌ Closed PR [#101](https://github.com/zynth17/vitailse/pull/101) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+4. ❌ Closed PR [#100](https://github.com/zynth17/vitailse/pull/100) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+5. ❌ Closed PR [#99](https://github.com/zynth17/vitailse/pull/99) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+6. ❌ Closed PR [#92](https://github.com/zynth17/vitailse/pull/92) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+7. ❌ Closed PR [#98](https://github.com/zynth17/vitailse/pull/98) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+8. ❌ Closed PR [#97](https://github.com/zynth17/vitailse/pull/97) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+9. ❌ Closed PR [#95](https://github.com/zynth17/vitailse/pull/95) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+10. ❌ Closed PR [#94](https://github.com/zynth17/vitailse/pull/94) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
