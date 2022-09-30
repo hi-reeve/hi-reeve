@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/wheatjs/vite-plugin-vue-type-imports/issues/10) in [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
-2. ❗️ Opened issue [#3931](https://github.com/logaretm/vee-validate/issues/3931) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-3. ❗️ Closed issue [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-4. 🗣 Commented on [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+1. ❗️ Opened issue [#1956](https://github.com/vuejs/devtools/issues/1956) in [vuejs/devtools](https://github.com/vuejs/devtools)
+2. 🗣 Commented on [#10](https://github.com/wheatjs/vite-plugin-vue-type-imports/issues/10) in [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
+3. ❗️ Opened issue [#3931](https://github.com/logaretm/vee-validate/issues/3931) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+4. ❗️ Closed issue [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 5. 🗣 Commented on [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-6. 🗣 Commented on [#148](https://github.com/fawmi/vue-google-maps/issues/148) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
+6. 🗣 Commented on [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 7. 🗣 Commented on [#148](https://github.com/fawmi/vue-google-maps/issues/148) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
-8. 💪 Opened PR [#3912](https://github.com/logaretm/vee-validate/pull/3912) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-9. 🗣 Commented on [#1418](https://github.com/jquense/yup/issues/1418) in [jquense/yup](https://github.com/jquense/yup)
-10. ❌ Closed PR [#101](https://github.com/zynth17/vitailse/pull/101) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+8. 🗣 Commented on [#148](https://github.com/fawmi/vue-google-maps/issues/148) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
+9. 💪 Opened PR [#3912](https://github.com/logaretm/vee-validate/pull/3912) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+10. 🗣 Commented on [#1418](https://github.com/jquense/yup/issues/1418) in [jquense/yup](https://github.com/jquense/yup)
 <!--END_SECTION:activity-->
 
 <hr/>
