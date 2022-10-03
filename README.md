@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/posva/unplugin-vue-router/issues/71) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-2. ❗️ Opened issue [#1956](https://github.com/vuejs/devtools/issues/1956) in [vuejs/devtools](https://github.com/vuejs/devtools)
-3. 🗣 Commented on [#10](https://github.com/wheatjs/vite-plugin-vue-type-imports/issues/10) in [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
-4. ❗️ Opened issue [#3931](https://github.com/logaretm/vee-validate/issues/3931) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-5. ❗️ Closed issue [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-6. 🗣 Commented on [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-7. 🗣 Commented on [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-8. 🗣 Commented on [#148](https://github.com/fawmi/vue-google-maps/issues/148) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
-9. 🗣 Commented on [#148](https://github.com/fawmi/vue-google-maps/issues/148) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
-10. 💪 Opened PR [#3912](https://github.com/logaretm/vee-validate/pull/3912) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+1. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+2. ❗️ Closed issue [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+3. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+4. ❗️ Opened issue [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+5. ❗️ Opened issue [#71](https://github.com/posva/unplugin-vue-router/issues/71) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+6. ❗️ Opened issue [#1956](https://github.com/vuejs/devtools/issues/1956) in [vuejs/devtools](https://github.com/vuejs/devtools)
+7. 🗣 Commented on [#10](https://github.com/wheatjs/vite-plugin-vue-type-imports/issues/10) in [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
+8. ❗️ Opened issue [#3931](https://github.com/logaretm/vee-validate/issues/3931) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+9. ❗️ Closed issue [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+10. 🗣 Commented on [#113](https://github.com/zynth17/vitailse/issues/113) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
