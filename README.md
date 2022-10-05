@@ -38,13 +38,13 @@
 1. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 2. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 3. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
-4. ❗️ Closed issue [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
-5. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
-6. ❗️ Opened issue [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
-7. ❗️ Opened issue [#71](https://github.com/posva/unplugin-vue-router/issues/71) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-8. ❗️ Opened issue [#1956](https://github.com/vuejs/devtools/issues/1956) in [vuejs/devtools](https://github.com/vuejs/devtools)
-9. 🗣 Commented on [#10](https://github.com/wheatjs/vite-plugin-vue-type-imports/issues/10) in [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
-10. ❗️ Opened issue [#3931](https://github.com/logaretm/vee-validate/issues/3931) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+4. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+5. ❗️ Closed issue [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+6. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+7. ❗️ Opened issue [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+8. ❗️ Opened issue [#71](https://github.com/posva/unplugin-vue-router/issues/71) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+9. ❗️ Opened issue [#1956](https://github.com/vuejs/devtools/issues/1956) in [vuejs/devtools](https://github.com/vuejs/devtools)
+10. 🗣 Commented on [#10](https://github.com/wheatjs/vite-plugin-vue-type-imports/issues/10) in [wheatjs/vite-plugin-vue-type-imports](https://github.com/wheatjs/vite-plugin-vue-type-imports)
 <!--END_SECTION:activity-->
 
 <hr/>
