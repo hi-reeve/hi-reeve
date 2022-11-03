@@ -35,11 +35,11 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+1. 🗣 Commented on [#2910](https://github.com/ueberdosis/tiptap/issues/2910) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
 2. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-3. 🗣 Commented on [#118](https://github.com/zynth17/vitailse/issues/118) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-4. 🎉 Merged PR [#130](https://github.com/zynth17/vitailse/pull/130) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-5. 💪 Opened PR [#257](https://github.com/DamianOsipiuk/vue-query/pull/257) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+3. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+4. 🗣 Commented on [#118](https://github.com/zynth17/vitailse/issues/118) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+5. 🎉 Merged PR [#130](https://github.com/zynth17/vitailse/pull/130) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 6. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 7. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 8. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
