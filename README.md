@@ -35,11 +35,11 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
-2. 🗣 Commented on [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-3. ❗️ Opened issue [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-4. 🗣 Commented on [#35](https://github.com/raivo-otp/ios-application/issues/35) in [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application)
-5. 🗣 Commented on [#4440](https://github.com/TanStack/table/issues/4440) in [TanStack/table](https://github.com/TanStack/table)
+1. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+2. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
+3. 🗣 Commented on [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+4. ❗️ Opened issue [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+5. 🗣 Commented on [#35](https://github.com/raivo-otp/ios-application/issues/35) in [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application)
 6. 🗣 Commented on [#149](https://github.com/zynth17/vitailse/issues/149) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 7. 🗣 Commented on [#2910](https://github.com/ueberdosis/tiptap/issues/2910) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
 8. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
