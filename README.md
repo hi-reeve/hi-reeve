@@ -35,13 +35,13 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16168](https://github.com/vuetifyjs/vuetify/issues/16168) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-2. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-3. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
-4. 🗣 Commented on [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-5. ❗️ Opened issue [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-6. 🗣 Commented on [#35](https://github.com/raivo-otp/ios-application/issues/35) in [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application)
-7. 🗣 Commented on [#2910](https://github.com/ueberdosis/tiptap/issues/2910) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. ❗️ Opened issue [#855](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/855) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+2. 🗣 Commented on [#16168](https://github.com/vuetifyjs/vuetify/issues/16168) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+3. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+4. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
+5. 🗣 Commented on [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+6. ❗️ Opened issue [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+7. 🗣 Commented on [#35](https://github.com/raivo-otp/ios-application/issues/35) in [raivo-otp/ios-application](https://github.com/raivo-otp/ios-application)
 8. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 9. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 10. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
