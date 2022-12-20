@@ -35,15 +35,15 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-2. ❗️ Opened issue [#7082](https://github.com/fullcalendar/fullcalendar/issues/7082) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
-3. ❗️ Opened issue [#855](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/855) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-4. 🗣 Commented on [#16168](https://github.com/vuetifyjs/vuetify/issues/16168) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-5. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-6. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
-7. 🗣 Commented on [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-8. ❗️ Opened issue [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-9. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+1. ❗️ Opened issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+2. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+3. ❗️ Opened issue [#7082](https://github.com/fullcalendar/fullcalendar/issues/7082) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
+4. ❗️ Opened issue [#855](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/855) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+5. 🗣 Commented on [#16168](https://github.com/vuetifyjs/vuetify/issues/16168) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+6. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+7. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
+8. 🗣 Commented on [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+9. ❗️ Opened issue [#833](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/833) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
 10. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
 <!--END_SECTION:activity-->
 
