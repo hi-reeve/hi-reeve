@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/gxmari007/vite-plugin-eslint/issues/52) in [gxmari007/vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint)
-2. 🗣 Commented on [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-3. ❗️ Opened issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-4. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-5. ❗️ Opened issue [#7082](https://github.com/fullcalendar/fullcalendar/issues/7082) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
-6. ❗️ Opened issue [#855](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/855) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
-7. 🗣 Commented on [#16168](https://github.com/vuetifyjs/vuetify/issues/16168) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-8. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-9. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
-10. 🗣 Commented on [#252](https://github.com/DamianOsipiuk/vue-query/issues/252) in [DamianOsipiuk/vue-query](https://github.com/DamianOsipiuk/vue-query)
+1. 🗣 Commented on [#107](https://github.com/posva/unplugin-vue-router/issues/107) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+2. 🗣 Commented on [#52](https://github.com/gxmari007/vite-plugin-eslint/issues/52) in [gxmari007/vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint)
+3. 🗣 Commented on [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+4. ❗️ Opened issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+5. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+6. ❗️ Opened issue [#7082](https://github.com/fullcalendar/fullcalendar/issues/7082) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
+7. ❗️ Opened issue [#855](https://github.com/davidwernhart/AlDente-Charge-Limiter/issues/855) in [davidwernhart/AlDente-Charge-Limiter](https://github.com/davidwernhart/AlDente-Charge-Limiter)
+8. 🗣 Commented on [#16168](https://github.com/vuetifyjs/vuetify/issues/16168) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+9. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+10. ❗️ Opened issue [#1](https://github.com/sonnylazuardi/chatgpt-desktop/issues/1) in [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)
 <!--END_SECTION:activity-->
 
 <hr/>
