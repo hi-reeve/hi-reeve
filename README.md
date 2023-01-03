@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
-2. ❗️ Closed issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-3. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+1. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+2. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
+3. ❗️ Closed issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
 4. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-5. 🗣 Commented on [#107](https://github.com/posva/unplugin-vue-router/issues/107) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-6. 🗣 Commented on [#52](https://github.com/gxmari007/vite-plugin-eslint/issues/52) in [gxmari007/vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint)
-7. 🗣 Commented on [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-8. ❗️ Opened issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-9. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-10. ❗️ Opened issue [#7082](https://github.com/fullcalendar/fullcalendar/issues/7082) in [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
+5. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+6. 🗣 Commented on [#107](https://github.com/posva/unplugin-vue-router/issues/107) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+7. 🗣 Commented on [#52](https://github.com/gxmari007/vite-plugin-eslint/issues/52) in [gxmari007/vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint)
+8. 🗣 Commented on [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+9. ❗️ Opened issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+10. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
 <!--END_SECTION:activity-->
 
 <hr/>
