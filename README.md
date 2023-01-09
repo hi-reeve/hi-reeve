@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-2. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-3. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
-4. ❗️ Closed issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-5. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+1. 🗣 Commented on [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+2. ❗️ Opened issue [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+3. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+4. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
+5. ❗️ Closed issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
 6. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-7. 🗣 Commented on [#107](https://github.com/posva/unplugin-vue-router/issues/107) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-8. 🗣 Commented on [#52](https://github.com/gxmari007/vite-plugin-eslint/issues/52) in [gxmari007/vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint)
-9. 🗣 Commented on [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
-10. ❗️ Opened issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+7. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+8. 🗣 Commented on [#107](https://github.com/posva/unplugin-vue-router/issues/107) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+9. 🗣 Commented on [#52](https://github.com/gxmari007/vite-plugin-eslint/issues/52) in [gxmari007/vite-plugin-eslint](https://github.com/gxmari007/vite-plugin-eslint)
+10. 🗣 Commented on [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
 <!--END_SECTION:activity-->
 
 <hr/>
