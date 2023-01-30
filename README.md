@@ -35,14 +35,14 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/motiondivision/motionone/issues/140) in [motiondivision/motionone](https://github.com/motiondivision/motionone)
-2. ❗️ Opened issue [#12014](https://github.com/nuxt/nuxt.js/issues/12014) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-3. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-4. 🗣 Commented on [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-5. ❗️ Opened issue [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-6. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-7. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
-8. ❗️ Closed issue [#535](https://github.com/storybookjs/builder-vite/issues/535) in [storybookjs/builder-vite](https://github.com/storybookjs/builder-vite)
+1. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+2. 🗣 Commented on [#140](https://github.com/motiondivision/motionone/issues/140) in [motiondivision/motionone](https://github.com/motiondivision/motionone)
+3. ❗️ Opened issue [#12014](https://github.com/nuxt/nuxt.js/issues/12014) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+4. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+5. 🗣 Commented on [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+6. ❗️ Opened issue [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+7. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+8. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
 9. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 10. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
