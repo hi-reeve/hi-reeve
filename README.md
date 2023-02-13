@@ -35,12 +35,12 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7623](https://github.com/vuejs/core/issues/7623) in [vuejs/core](https://github.com/vuejs/core)
-2. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
-3. 🗣 Commented on [#140](https://github.com/motiondivision/motionone/issues/140) in [motiondivision/motionone](https://github.com/motiondivision/motionone)
-4. ❗️ Opened issue [#12014](https://github.com/nuxt/nuxt.js/issues/12014) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-5. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-6. 🗣 Commented on [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+1. ❗️ Opened issue [#266](https://github.com/sxzz/unplugin-vue-macros/issues/266) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+2. ❗️ Opened issue [#7623](https://github.com/vuejs/core/issues/7623) in [vuejs/core](https://github.com/vuejs/core)
+3. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+4. 🗣 Commented on [#140](https://github.com/motiondivision/motionone/issues/140) in [motiondivision/motionone](https://github.com/motiondivision/motionone)
+5. ❗️ Opened issue [#12014](https://github.com/nuxt/nuxt.js/issues/12014) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+6. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 7. ❗️ Opened issue [#116](https://github.com/posva/unplugin-vue-router/issues/116) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 8. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 9. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
