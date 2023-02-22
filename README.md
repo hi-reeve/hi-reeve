@@ -35,14 +35,14 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4506](https://github.com/tusen-ai/naive-ui/pull/4506) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-2. ❗️ Opened issue [#266](https://github.com/sxzz/unplugin-vue-macros/issues/266) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
-3. ❗️ Opened issue [#7623](https://github.com/vuejs/core/issues/7623) in [vuejs/core](https://github.com/vuejs/core)
-4. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
-5. 🗣 Commented on [#140](https://github.com/motiondivision/motionone/issues/140) in [motiondivision/motionone](https://github.com/motiondivision/motionone)
-6. ❗️ Opened issue [#12014](https://github.com/nuxt/nuxt.js/issues/12014) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-7. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-8. ❗️ Opened issue [#10226](https://github.com/tailwindlabs/tailwindcss/issues/10226) in [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+1. ❗️ Opened issue [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+2. 💪 Opened PR [#4506](https://github.com/tusen-ai/naive-ui/pull/4506) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+3. ❗️ Opened issue [#266](https://github.com/sxzz/unplugin-vue-macros/issues/266) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+4. ❗️ Opened issue [#7623](https://github.com/vuejs/core/issues/7623) in [vuejs/core](https://github.com/vuejs/core)
+5. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+6. 🗣 Commented on [#140](https://github.com/motiondivision/motionone/issues/140) in [motiondivision/motionone](https://github.com/motiondivision/motionone)
+7. ❗️ Opened issue [#12014](https://github.com/nuxt/nuxt.js/issues/12014) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+8. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 9. 💪 Opened PR [#1](https://github.com/zafaralam/vue-3-toast/pull/1) in [zafaralam/vue-3-toast](https://github.com/zafaralam/vue-3-toast)
 10. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
