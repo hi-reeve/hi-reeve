@@ -35,15 +35,15 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
-2. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-3. ❗️ Opened issue [#23](https://github.com/sidebase/nuxt-auth-example/issues/23) in [sidebase/nuxt-auth-example](https://github.com/sidebase/nuxt-auth-example)
-4. ❗️ Opened issue [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-5. 💪 Opened PR [#4506](https://github.com/tusen-ai/naive-ui/pull/4506) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-6. ❗️ Opened issue [#266](https://github.com/sxzz/unplugin-vue-macros/issues/266) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
-7. ❗️ Opened issue [#7623](https://github.com/vuejs/core/issues/7623) in [vuejs/core](https://github.com/vuejs/core)
-8. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
-9. ❗️ Opened issue [#11905](https://github.com/nuxt/nuxt.js/issues/11905) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+1. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+2. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
+3. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+4. ❗️ Opened issue [#23](https://github.com/sidebase/nuxt-auth-example/issues/23) in [sidebase/nuxt-auth-example](https://github.com/sidebase/nuxt-auth-example)
+5. ❗️ Opened issue [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+6. 💪 Opened PR [#4506](https://github.com/tusen-ai/naive-ui/pull/4506) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+7. ❗️ Opened issue [#266](https://github.com/sxzz/unplugin-vue-macros/issues/266) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+8. ❗️ Opened issue [#7623](https://github.com/vuejs/core/issues/7623) in [vuejs/core](https://github.com/vuejs/core)
+9. 🗣 Commented on [#251](https://github.com/sxzz/unplugin-vue-macros/issues/251) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
 10. 🗣 Commented on [#74](https://github.com/posva/unplugin-vue-router/issues/74) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
 
