@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4546](https://github.com/tusen-ai/naive-ui/issues/4546) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-2. 🗣 Commented on [#92](https://github.com/vueuse/motion/issues/92) in [vueuse/motion](https://github.com/vueuse/motion)
-3. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
-4. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-5. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
-6. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-7. ❗️ Opened issue [#23](https://github.com/sidebase/nuxt-auth-example/issues/23) in [sidebase/nuxt-auth-example](https://github.com/sidebase/nuxt-auth-example)
-8. ❗️ Opened issue [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-9. 💪 Opened PR [#4506](https://github.com/tusen-ai/naive-ui/pull/4506) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-10. ❗️ Opened issue [#266](https://github.com/sxzz/unplugin-vue-macros/issues/266) in [sxzz/unplugin-vue-macros](https://github.com/sxzz/unplugin-vue-macros)
+1. 🗣 Commented on [#4447](https://github.com/tusen-ai/naive-ui/issues/4447) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+2. ❗️ Opened issue [#4546](https://github.com/tusen-ai/naive-ui/issues/4546) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+3. 🗣 Commented on [#92](https://github.com/vueuse/motion/issues/92) in [vueuse/motion](https://github.com/vueuse/motion)
+4. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
+5. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+6. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
+7. 🗣 Commented on [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+8. ❗️ Opened issue [#23](https://github.com/sidebase/nuxt-auth-example/issues/23) in [sidebase/nuxt-auth-example](https://github.com/sidebase/nuxt-auth-example)
+9. ❗️ Opened issue [#2441](https://github.com/vuejs/language-tools/issues/2441) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+10. 💪 Opened PR [#4506](https://github.com/tusen-ai/naive-ui/pull/4506) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
 <!--END_SECTION:activity-->
 
 <hr/>
