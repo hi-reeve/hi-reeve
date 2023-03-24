@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
-2. ❗️ Opened issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
-3. 🗣 Commented on [#19651](https://github.com/nuxt/nuxt/issues/19651) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-4. 🗣 Commented on [#19](https://github.com/nuxt-modules/icon/issues/19) in [nuxt-modules/icon](https://github.com/nuxt-modules/icon)
-5. 🗣 Commented on [#279](https://github.com/sidebase/nuxt-auth/issues/279) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
-6. 🗣 Commented on [#265](https://github.com/sidebase/nuxt-auth/issues/265) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
-7. 🗣 Commented on [#4447](https://github.com/tusen-ai/naive-ui/issues/4447) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-8. ❗️ Opened issue [#4546](https://github.com/tusen-ai/naive-ui/issues/4546) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-9. 🗣 Commented on [#92](https://github.com/vueuse/motion/issues/92) in [vueuse/motion](https://github.com/vueuse/motion)
-10. 🗣 Commented on [#59](https://github.com/huntersofbook/huntersofbook/issues/59) in [huntersofbook/huntersofbook](https://github.com/huntersofbook/huntersofbook)
+1. 🗣 Commented on [#19837](https://github.com/nuxt/nuxt/issues/19837) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+2. ❗️ Closed issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+3. ❗️ Opened issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+4. 🗣 Commented on [#19651](https://github.com/nuxt/nuxt/issues/19651) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+5. 🗣 Commented on [#19](https://github.com/nuxt-modules/icon/issues/19) in [nuxt-modules/icon](https://github.com/nuxt-modules/icon)
+6. 🗣 Commented on [#279](https://github.com/sidebase/nuxt-auth/issues/279) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
+7. 🗣 Commented on [#265](https://github.com/sidebase/nuxt-auth/issues/265) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
+8. 🗣 Commented on [#4447](https://github.com/tusen-ai/naive-ui/issues/4447) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+9. ❗️ Opened issue [#4546](https://github.com/tusen-ai/naive-ui/issues/4546) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+10. 🗣 Commented on [#92](https://github.com/vueuse/motion/issues/92) in [vueuse/motion](https://github.com/vueuse/motion)
 <!--END_SECTION:activity-->
 
 <hr/>
