@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19931](https://github.com/nuxt/nuxt/issues/19931) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-2. 🗣 Commented on [#19837](https://github.com/nuxt/nuxt/issues/19837) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-3. ❗️ Closed issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
-4. ❗️ Opened issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
-5. 🗣 Commented on [#19651](https://github.com/nuxt/nuxt/issues/19651) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-6. 🗣 Commented on [#19](https://github.com/nuxt-modules/icon/issues/19) in [nuxt-modules/icon](https://github.com/nuxt-modules/icon)
-7. 🗣 Commented on [#279](https://github.com/sidebase/nuxt-auth/issues/279) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
-8. 🗣 Commented on [#265](https://github.com/sidebase/nuxt-auth/issues/265) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
-9. 🗣 Commented on [#4447](https://github.com/tusen-ai/naive-ui/issues/4447) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
-10. ❗️ Opened issue [#4546](https://github.com/tusen-ai/naive-ui/issues/4546) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+1. 🗣 Commented on [#4904](https://github.com/rollup/rollup/issues/4904) in [rollup/rollup](https://github.com/rollup/rollup)
+2. 🗣 Commented on [#19783](https://github.com/nuxt/nuxt/issues/19783) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+3. ❗️ Opened issue [#19931](https://github.com/nuxt/nuxt/issues/19931) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+4. 🗣 Commented on [#19837](https://github.com/nuxt/nuxt/issues/19837) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+5. ❗️ Closed issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+6. ❗️ Opened issue [#181](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/181) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+7. 🗣 Commented on [#19651](https://github.com/nuxt/nuxt/issues/19651) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+8. 🗣 Commented on [#19](https://github.com/nuxt-modules/icon/issues/19) in [nuxt-modules/icon](https://github.com/nuxt-modules/icon)
+9. 🗣 Commented on [#279](https://github.com/sidebase/nuxt-auth/issues/279) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
+10. 🗣 Commented on [#265](https://github.com/sidebase/nuxt-auth/issues/265) in [sidebase/nuxt-auth](https://github.com/sidebase/nuxt-auth)
 <!--END_SECTION:activity-->
 
 <hr/>
