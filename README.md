@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4222](https://github.com/logaretm/vee-validate/issues/4222) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-2. ❗️ Opened issue [#3301](https://github.com/leerob/on-demand-isr/issues/3301) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-3. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-4. 🗣 Commented on [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
-5. ❗️ Opened issue [#112](https://github.com/vueuse/motion/issues/112) in [vueuse/motion](https://github.com/vueuse/motion)
-6. 🗣 Commented on [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+1. ❗️ Opened issue [#3129](https://github.com/vuejs/language-tools/issues/3129) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+2. 🗣 Commented on [#4222](https://github.com/logaretm/vee-validate/issues/4222) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+3. ❗️ Opened issue [#3301](https://github.com/leerob/on-demand-isr/issues/3301) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+4. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+5. 🗣 Commented on [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+6. ❗️ Opened issue [#112](https://github.com/vueuse/motion/issues/112) in [vueuse/motion](https://github.com/vueuse/motion)
 7. 🗣 Commented on [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
-8. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-9. ❗️ Opened issue [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
-10. 🗣 Commented on [#19783](https://github.com/nuxt/nuxt/issues/19783) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+8. 🗣 Commented on [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+9. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+10. ❗️ Opened issue [#85](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/85) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
 <!--END_SECTION:activity-->
 
 <hr/>
