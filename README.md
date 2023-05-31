@@ -41,10 +41,10 @@
 4. 🗣 Commented on [#102](https://github.com/unjs/nitro/issues/102) in [unjs/nitro](https://github.com/unjs/nitro)
 5. 🗣 Commented on [#3190](https://github.com/vuejs/language-tools/issues/3190) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 6. 🗣 Commented on [#2034](https://github.com/nuxt-modules/i18n/issues/2034) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
-7. ❗️ Opened issue [#4804](https://github.com/tusen-ai/naive-ui/issues/4804) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+7. ❗ Opened issue [#4804](https://github.com/tusen-ai/naive-ui/issues/4804) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
 8. 🗣 Commented on [#2034](https://github.com/nuxt-modules/i18n/issues/2034) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
 9. 🗣 Commented on [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
-10. ❗️ Opened issue [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+10. ❗ Opened issue [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
 <!--END_SECTION:activity-->
 
 <hr/>
