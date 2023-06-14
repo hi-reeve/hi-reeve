@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4314](https://github.com/logaretm/vee-validate/issues/4314) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-2. 🗣 Commented on [#3129](https://github.com/vuejs/language-tools/issues/3129) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-3. 🗣 Commented on [#79](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/79) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
-4. 🗣 Commented on [#203](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/203) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
-5. 🗣 Commented on [#102](https://github.com/unjs/nitro/issues/102) in [unjs/nitro](https://github.com/unjs/nitro)
-6. 🗣 Commented on [#3190](https://github.com/vuejs/language-tools/issues/3190) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-7. 🗣 Commented on [#2034](https://github.com/nuxt-modules/i18n/issues/2034) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
-8. ❗ Opened issue [#4804](https://github.com/tusen-ai/naive-ui/issues/4804) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
+1. 🔒 Closed issue [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+2. ❗ Opened issue [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
+3. ❗ Opened issue [#4314](https://github.com/logaretm/vee-validate/issues/4314) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+4. 🗣 Commented on [#3129](https://github.com/vuejs/language-tools/issues/3129) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+5. 🗣 Commented on [#79](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/79) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+6. 🗣 Commented on [#203](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/203) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+7. 🗣 Commented on [#102](https://github.com/unjs/nitro/issues/102) in [unjs/nitro](https://github.com/unjs/nitro)
+8. 🗣 Commented on [#3190](https://github.com/vuejs/language-tools/issues/3190) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 9. 🗣 Commented on [#2034](https://github.com/nuxt-modules/i18n/issues/2034) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
-10. 🗣 Commented on [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+10. ❗ Opened issue [#4804](https://github.com/tusen-ai/naive-ui/issues/4804) in [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)
 <!--END_SECTION:activity-->
 
 <hr/>
