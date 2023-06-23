@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1088](https://github.com/chakra-ui/ark/pull/1088) in [chakra-ui/ark](https://github.com/chakra-ui/ark)
-2. 💪 Opened PR [#1085](https://github.com/chakra-ui/ark/pull/1085) in [chakra-ui/ark](https://github.com/chakra-ui/ark)
-3. 🔒 Closed issue [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
-4. 🗣 Commented on [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
+1. 🗣 Commented on [#1088](https://github.com/chakra-ui/ark/issues/1088) in [chakra-ui/ark](https://github.com/chakra-ui/ark)
+2. 💪 Opened PR [#1088](https://github.com/chakra-ui/ark/pull/1088) in [chakra-ui/ark](https://github.com/chakra-ui/ark)
+3. 💪 Opened PR [#1085](https://github.com/chakra-ui/ark/pull/1085) in [chakra-ui/ark](https://github.com/chakra-ui/ark)
+4. 🔒 Closed issue [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
 5. 🗣 Commented on [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
-6. 🔒 Closed issue [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
-7. ❗ Opened issue [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
-8. ❗ Opened issue [#4314](https://github.com/logaretm/vee-validate/issues/4314) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-9. 🗣 Commented on [#3129](https://github.com/vuejs/language-tools/issues/3129) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-10. 🗣 Commented on [#79](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/79) in [prazdevs/pinia-plugin-persistedstate](https://github.com/prazdevs/pinia-plugin-persistedstate)
+6. 🗣 Commented on [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
+7. 🔒 Closed issue [#94](https://github.com/victorgarciaesgi/nuxt-typed-router/issues/94) in [victorgarciaesgi/nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router)
+8. ❗ Opened issue [#110](https://github.com/subframe7536/maple-font/issues/110) in [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
+9. ❗ Opened issue [#4314](https://github.com/logaretm/vee-validate/issues/4314) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+10. 🗣 Commented on [#3129](https://github.com/vuejs/language-tools/issues/3129) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 <!--END_SECTION:activity-->
 
 <hr/>
