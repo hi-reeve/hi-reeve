@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/lokalise/i18n-ally-jetbrains-docs/issues/42#issuecomment-1663185237) in [lokalise/i18n-ally-jetbrains-docs](https://github.com/lokalise/i18n-ally-jetbrains-docs)
-2. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657806184) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-3. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657117863) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-4. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1637263731) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-5. ❗ Opened issue [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-6. 🗣 Commented on [#89](https://github.com/tim-hub/obsidian-bible-reference/issues/89#issuecomment-1635245071) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-7. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1627903979) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-8. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1626864830) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-9. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1624526883) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-10. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1622948394) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+1. 🗣 Commented on [#134](https://github.com/danielroe/nuxt-vitest/issues/134#issuecomment-1687464634) in [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest)
+2. 🗣 Commented on [#42](https://github.com/lokalise/i18n-ally-jetbrains-docs/issues/42#issuecomment-1663185237) in [lokalise/i18n-ally-jetbrains-docs](https://github.com/lokalise/i18n-ally-jetbrains-docs)
+3. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657806184) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+4. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657117863) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+5. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1637263731) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+6. ❗ Opened issue [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+7. 🗣 Commented on [#89](https://github.com/tim-hub/obsidian-bible-reference/issues/89#issuecomment-1635245071) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+8. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1627903979) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+9. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1626864830) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+10. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1624526883) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
 <!--END_SECTION:activity-->
 
 <hr/>
