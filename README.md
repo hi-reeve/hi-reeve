@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/hi-reeve/vitailse/issues/251#issuecomment-1700315172) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
-2. 🗣 Commented on [#134](https://github.com/danielroe/nuxt-vitest/issues/134#issuecomment-1689454344) in [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest)
-3. 🗣 Commented on [#134](https://github.com/danielroe/nuxt-vitest/issues/134#issuecomment-1687464634) in [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest)
-4. 🗣 Commented on [#42](https://github.com/lokalise/i18n-ally-jetbrains-docs/issues/42#issuecomment-1663185237) in [lokalise/i18n-ally-jetbrains-docs](https://github.com/lokalise/i18n-ally-jetbrains-docs)
-5. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657806184) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-6. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657117863) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-7. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1637263731) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-8. ❗ Opened issue [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-9. 🗣 Commented on [#89](https://github.com/tim-hub/obsidian-bible-reference/issues/89#issuecomment-1635245071) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-10. 🗣 Commented on [#4211](https://github.com/logaretm/vee-validate/issues/4211#issuecomment-1627903979) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+1. ❗ Opened issue [#3553](https://github.com/vuejs/language-tools/issues/3553) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+2. 🗣 Commented on [#251](https://github.com/hi-reeve/vitailse/issues/251#issuecomment-1700315172) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
+3. 🗣 Commented on [#134](https://github.com/danielroe/nuxt-vitest/issues/134#issuecomment-1689454344) in [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest)
+4. 🗣 Commented on [#134](https://github.com/danielroe/nuxt-vitest/issues/134#issuecomment-1687464634) in [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest)
+5. 🗣 Commented on [#42](https://github.com/lokalise/i18n-ally-jetbrains-docs/issues/42#issuecomment-1663185237) in [lokalise/i18n-ally-jetbrains-docs](https://github.com/lokalise/i18n-ally-jetbrains-docs)
+6. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657806184) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+7. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1657117863) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+8. 🗣 Commented on [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104#issuecomment-1637263731) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+9. ❗ Opened issue [#104](https://github.com/tim-hub/obsidian-bible-reference/issues/104) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+10. 🗣 Commented on [#89](https://github.com/tim-hub/obsidian-bible-reference/issues/89#issuecomment-1635245071) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
 <!--END_SECTION:activity-->
 
 <hr/>
