@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1003](https://github.com/nuxt/image/issues/1003) in [nuxt/image](https://github.com/nuxt/image)
-2. 🗣 Commented on [#994](https://github.com/nuxt/image/issues/994#issuecomment-1733207054) in [nuxt/image](https://github.com/nuxt/image)
-3. 🗣 Commented on [#939](https://github.com/nuxt/image/issues/939#issuecomment-1733092433) in [nuxt/image](https://github.com/nuxt/image)
-4. 🎉 Merged PR [#252](https://github.com/hi-reeve/vitailse/pull/252) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
-5. 🎉 Merged PR [#253](https://github.com/hi-reeve/vitailse/pull/253) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
-6. ❗ Opened issue [#2415](https://github.com/nuxt-modules/i18n/issues/2415) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
-7. 🗣 Commented on [#3129](https://github.com/vuejs/language-tools/issues/3129#issuecomment-1716833433) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-8. ❗ Opened issue [#3553](https://github.com/vuejs/language-tools/issues/3553) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
-9. 🗣 Commented on [#251](https://github.com/hi-reeve/vitailse/issues/251#issuecomment-1700315172) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
-10. 🗣 Commented on [#134](https://github.com/danielroe/nuxt-vitest/issues/134#issuecomment-1689454344) in [danielroe/nuxt-vitest](https://github.com/danielroe/nuxt-vitest)
+1. 🗣 Commented on [#1003](https://github.com/nuxt/image/issues/1003#issuecomment-1736618233) in [nuxt/image](https://github.com/nuxt/image)
+2. ❗ Opened issue [#1003](https://github.com/nuxt/image/issues/1003) in [nuxt/image](https://github.com/nuxt/image)
+3. 🗣 Commented on [#994](https://github.com/nuxt/image/issues/994#issuecomment-1733207054) in [nuxt/image](https://github.com/nuxt/image)
+4. 🗣 Commented on [#939](https://github.com/nuxt/image/issues/939#issuecomment-1733092433) in [nuxt/image](https://github.com/nuxt/image)
+5. 🎉 Merged PR [#252](https://github.com/hi-reeve/vitailse/pull/252) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
+6. 🎉 Merged PR [#253](https://github.com/hi-reeve/vitailse/pull/253) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
+7. ❗ Opened issue [#2415](https://github.com/nuxt-modules/i18n/issues/2415) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+8. 🗣 Commented on [#3129](https://github.com/vuejs/language-tools/issues/3129#issuecomment-1716833433) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+9. ❗ Opened issue [#3553](https://github.com/vuejs/language-tools/issues/3553) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+10. 🗣 Commented on [#251](https://github.com/hi-reeve/vitailse/issues/251#issuecomment-1700315172) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
