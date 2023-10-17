@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23608](https://github.com/nuxt/nuxt/issues/23608#issuecomment-1765842840) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-2. 🗣 Commented on [#2384](https://github.com/vuetifyjs/vuetify/issues/2384#issuecomment-1752317074) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-3. 🗣 Commented on [#313](https://github.com/vuetifyjs/vuetify-loader/pull/313#issuecomment-1752257096) in [vuetifyjs/vuetify-loader](https://github.com/vuetifyjs/vuetify-loader)
-4. 🗣 Commented on [#1003](https://github.com/nuxt/image/issues/1003#issuecomment-1736618233) in [nuxt/image](https://github.com/nuxt/image)
-5. ❗ Opened issue [#1003](https://github.com/nuxt/image/issues/1003) in [nuxt/image](https://github.com/nuxt/image)
-6. 🗣 Commented on [#994](https://github.com/nuxt/image/issues/994#issuecomment-1733207054) in [nuxt/image](https://github.com/nuxt/image)
-7. 🗣 Commented on [#939](https://github.com/nuxt/image/issues/939#issuecomment-1733092433) in [nuxt/image](https://github.com/nuxt/image)
-8. 🎉 Merged PR [#252](https://github.com/hi-reeve/vitailse/pull/252) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
-9. 🎉 Merged PR [#253](https://github.com/hi-reeve/vitailse/pull/253) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
-10. ❗ Opened issue [#2415](https://github.com/nuxt-modules/i18n/issues/2415) in [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n)
+1. 🗣 Commented on [#23470](https://github.com/nuxt/nuxt/issues/23470#issuecomment-1766108020) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+2. 🗣 Commented on [#23608](https://github.com/nuxt/nuxt/issues/23608#issuecomment-1765842840) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+3. 🗣 Commented on [#2384](https://github.com/vuetifyjs/vuetify/issues/2384#issuecomment-1752317074) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+4. 🗣 Commented on [#313](https://github.com/vuetifyjs/vuetify-loader/pull/313#issuecomment-1752257096) in [vuetifyjs/vuetify-loader](https://github.com/vuetifyjs/vuetify-loader)
+5. 🗣 Commented on [#1003](https://github.com/nuxt/image/issues/1003#issuecomment-1736618233) in [nuxt/image](https://github.com/nuxt/image)
+6. ❗ Opened issue [#1003](https://github.com/nuxt/image/issues/1003) in [nuxt/image](https://github.com/nuxt/image)
+7. 🗣 Commented on [#994](https://github.com/nuxt/image/issues/994#issuecomment-1733207054) in [nuxt/image](https://github.com/nuxt/image)
+8. 🗣 Commented on [#939](https://github.com/nuxt/image/issues/939#issuecomment-1733092433) in [nuxt/image](https://github.com/nuxt/image)
+9. 🎉 Merged PR [#252](https://github.com/hi-reeve/vitailse/pull/252) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
+10. 🎉 Merged PR [#253](https://github.com/hi-reeve/vitailse/pull/253) in [hi-reeve/vitailse](https://github.com/hi-reeve/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
