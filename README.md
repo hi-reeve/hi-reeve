@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838106401) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
-2. 🔒 Closed issue [#18](https://github.com/nuxt-alt/proxy/issues/18) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
-3. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838026664) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
-4. ❗ Opened issue [#18](https://github.com/nuxt-alt/proxy/issues/18) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
-5. 🗣 Commented on [#23470](https://github.com/nuxt/nuxt/issues/23470#issuecomment-1766108020) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-6. 🗣 Commented on [#23608](https://github.com/nuxt/nuxt/issues/23608#issuecomment-1765842840) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-7. 🗣 Commented on [#2384](https://github.com/vuetifyjs/vuetify/issues/2384#issuecomment-1752317074) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-8. 🗣 Commented on [#313](https://github.com/vuetifyjs/vuetify-loader/pull/313#issuecomment-1752257096) in [vuetifyjs/vuetify-loader](https://github.com/vuetifyjs/vuetify-loader)
-9. 🗣 Commented on [#1003](https://github.com/nuxt/image/issues/1003#issuecomment-1736618233) in [nuxt/image](https://github.com/nuxt/image)
-10. ❗ Opened issue [#1003](https://github.com/nuxt/image/issues/1003) in [nuxt/image](https://github.com/nuxt/image)
+1. 🗣 Commented on [#83](https://github.com/drizzle-team/drizzle-kit-mirror/issues/83#issuecomment-1842029987) in [drizzle-team/drizzle-kit-mirror](https://github.com/drizzle-team/drizzle-kit-mirror)
+2. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838106401) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
+3. 🔒 Closed issue [#18](https://github.com/nuxt-alt/proxy/issues/18) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
+4. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838026664) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
+5. ❗ Opened issue [#18](https://github.com/nuxt-alt/proxy/issues/18) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
+6. 🗣 Commented on [#23470](https://github.com/nuxt/nuxt/issues/23470#issuecomment-1766108020) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+7. 🗣 Commented on [#23608](https://github.com/nuxt/nuxt/issues/23608#issuecomment-1765842840) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+8. 🗣 Commented on [#2384](https://github.com/vuetifyjs/vuetify/issues/2384#issuecomment-1752317074) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+9. 🗣 Commented on [#313](https://github.com/vuetifyjs/vuetify-loader/pull/313#issuecomment-1752257096) in [vuetifyjs/vuetify-loader](https://github.com/vuetifyjs/vuetify-loader)
+10. 🗣 Commented on [#1003](https://github.com/nuxt/image/issues/1003#issuecomment-1736618233) in [nuxt/image](https://github.com/nuxt/image)
 <!--END_SECTION:activity-->
 
 <hr/>
