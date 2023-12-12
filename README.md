@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851142343) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-2. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851102606) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-3. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1849216467) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-4. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846887483) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-5. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846321987) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-6. ❗ Opened issue [#223](https://github.com/Intevel/nuxt-directus/issues/223) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-7. 🗣 Commented on [#83](https://github.com/drizzle-team/drizzle-kit-mirror/issues/83#issuecomment-1842029987) in [drizzle-team/drizzle-kit-mirror](https://github.com/drizzle-team/drizzle-kit-mirror)
-8. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838106401) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
-9. 🔒 Closed issue [#18](https://github.com/nuxt-alt/proxy/issues/18) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
-10. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838026664) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
+1. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851210657) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+2. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851142343) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+3. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851102606) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+4. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1849216467) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+5. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846887483) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+6. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846321987) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+7. ❗ Opened issue [#223](https://github.com/Intevel/nuxt-directus/issues/223) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+8. 🗣 Commented on [#83](https://github.com/drizzle-team/drizzle-kit-mirror/issues/83#issuecomment-1842029987) in [drizzle-team/drizzle-kit-mirror](https://github.com/drizzle-team/drizzle-kit-mirror)
+9. 🗣 Commented on [#18](https://github.com/nuxt-alt/proxy/issues/18#issuecomment-1838106401) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
+10. 🔒 Closed issue [#18](https://github.com/nuxt-alt/proxy/issues/18) in [nuxt-alt/proxy](https://github.com/nuxt-alt/proxy)
 <!--END_SECTION:activity-->
 
 <hr/>
