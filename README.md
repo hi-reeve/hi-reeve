@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851948456) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-2. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851373912) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-3. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851355257) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-4. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851210657) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-5. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851142343) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-6. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851102606) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-7. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1849216467) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-8. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846887483) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-9. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846321987) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
-10. ❗ Opened issue [#223](https://github.com/Intevel/nuxt-directus/issues/223) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+1. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1853071756) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+2. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851948456) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+3. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851373912) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+4. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851355257) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+5. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851210657) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+6. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851142343) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+7. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1851102606) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+8. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1849216467) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+9. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846887483) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+10. 🗣 Commented on [#223](https://github.com/Intevel/nuxt-directus/issues/223#issuecomment-1846321987) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
 <!--END_SECTION:activity-->
 
 <hr/>
