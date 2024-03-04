@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4661](https://github.com/logaretm/vee-validate/issues/4661) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-2. 🗣 Commented on [#4584](https://github.com/AppFlowy-IO/AppFlowy/issues/4584#issuecomment-1928614829) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-3. ❗ Opened issue [#4584](https://github.com/AppFlowy-IO/AppFlowy/issues/4584) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-4. 🗣 Commented on [#4630](https://github.com/logaretm/vee-validate/issues/4630#issuecomment-1922784137) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-5. ❗ Opened issue [#4651](https://github.com/logaretm/vee-validate/issues/4651) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-6. 🗣 Commented on [#199610](https://github.com/microsoft/vscode/issues/199610#issuecomment-1886151399) in [microsoft/vscode](https://github.com/microsoft/vscode)
-7. ❗ Opened issue [#4614](https://github.com/logaretm/vee-validate/issues/4614) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-8. 🗣 Commented on [#544](https://github.com/nuxt/devtools/issues/544#issuecomment-1857303621) in [nuxt/devtools](https://github.com/nuxt/devtools)
-9. ❗ Opened issue [#544](https://github.com/nuxt/devtools/issues/544) in [nuxt/devtools](https://github.com/nuxt/devtools)
-10. 🔒 Closed issue [#223](https://github.com/Intevel/nuxt-directus/issues/223) in [Intevel/nuxt-directus](https://github.com/Intevel/nuxt-directus)
+1. 🗣 Commented on [#3942](https://github.com/vuejs/language-tools/issues/3942#issuecomment-1975633393) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
+2. ❗ Opened issue [#4661](https://github.com/logaretm/vee-validate/issues/4661) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+3. 🗣 Commented on [#4584](https://github.com/AppFlowy-IO/AppFlowy/issues/4584#issuecomment-1928614829) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+4. ❗ Opened issue [#4584](https://github.com/AppFlowy-IO/AppFlowy/issues/4584) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+5. 🗣 Commented on [#4630](https://github.com/logaretm/vee-validate/issues/4630#issuecomment-1922784137) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+6. ❗ Opened issue [#4651](https://github.com/logaretm/vee-validate/issues/4651) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+7. 🗣 Commented on [#199610](https://github.com/microsoft/vscode/issues/199610#issuecomment-1886151399) in [microsoft/vscode](https://github.com/microsoft/vscode)
+8. ❗ Opened issue [#4614](https://github.com/logaretm/vee-validate/issues/4614) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+9. 🗣 Commented on [#544](https://github.com/nuxt/devtools/issues/544#issuecomment-1857303621) in [nuxt/devtools](https://github.com/nuxt/devtools)
+10. ❗ Opened issue [#544](https://github.com/nuxt/devtools/issues/544) in [nuxt/devtools](https://github.com/nuxt/devtools)
 <!--END_SECTION:activity-->
 
 <hr/>
