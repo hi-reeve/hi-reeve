@@ -35,8 +35,8 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/tim-hub/obsidian-bible-reference/issues/181#issuecomment-2184309697) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-2. 🗣 Commented on [#772](https://github.com/radix-vue/radix-vue/issues/772#issuecomment-2102745881) in [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue)
+1. 🗣 Commented on [#493](https://github.com/usebruno/bruno/pull/493#issuecomment-2330759929) in [usebruno/bruno](https://github.com/usebruno/bruno)
+2. 🗣 Commented on [#181](https://github.com/tim-hub/obsidian-bible-reference/issues/181#issuecomment-2184309697) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
 3. 💪 Opened PR [#1797](https://github.com/CodeDredd/pinia-orm/pull/1797) in [CodeDredd/pinia-orm](https://github.com/CodeDredd/pinia-orm)
 4. 🗣 Commented on [#36](https://github.com/warrayquipsome/Chillax/issues/36#issuecomment-2038826981) in [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax)
 5. 🔒 Closed issue [#36](https://github.com/warrayquipsome/Chillax/issues/36) in [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax)
