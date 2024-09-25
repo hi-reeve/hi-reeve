@@ -35,10 +35,10 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com/kitbagjs/router/pull/264) in [kitbagjs/router](https://github.com/kitbagjs/router)
-2. ❗ Opened issue [#508](https://github.com/posva/unplugin-vue-router/issues/508) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-3. 🗣 Commented on [#493](https://github.com/usebruno/bruno/pull/493#issuecomment-2330759929) in [usebruno/bruno](https://github.com/usebruno/bruno)
-4. 🗣 Commented on [#181](https://github.com/tim-hub/obsidian-bible-reference/issues/181#issuecomment-2184309697) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+1. 🗣 Commented on [#29075](https://github.com/nuxt/nuxt/issues/29075#issuecomment-2374580794) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+2. 💪 Opened PR [#264](https://github.com/kitbagjs/router/pull/264) in [kitbagjs/router](https://github.com/kitbagjs/router)
+3. ❗ Opened issue [#508](https://github.com/posva/unplugin-vue-router/issues/508) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+4. 🗣 Commented on [#493](https://github.com/usebruno/bruno/pull/493#issuecomment-2330759929) in [usebruno/bruno](https://github.com/usebruno/bruno)
 5. 🔒 Closed issue [#36](https://github.com/warrayquipsome/Chillax/issues/36) in [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax)
 6. ❗ Opened issue [#36](https://github.com/warrayquipsome/Chillax/issues/36) in [warrayquipsome/Chillax](https://github.com/warrayquipsome/Chillax)
 7. 🔒 Closed issue [#1847](https://github.com/usebruno/bruno/issues/1847) in [usebruno/bruno](https://github.com/usebruno/bruno)
