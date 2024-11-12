@@ -35,14 +35,14 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1039](https://github.com/Vuepic/vue-datepicker/issues/1039) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
-2. 🗣 Commented on [#748](https://github.com/unovue/shadcn-vue/issues/748#issuecomment-2434337544) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
-3. 🗣 Commented on [#6963](https://github.com/hcengineering/platform/issues/6963#issuecomment-2424399475) in [hcengineering/platform](https://github.com/hcengineering/platform)
-4. 🗣 Commented on [#29075](https://github.com/nuxt/nuxt/issues/29075#issuecomment-2374580794) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
-5. 💪 Opened PR [#264](https://github.com/kitbagjs/router/pull/264) in [kitbagjs/router](https://github.com/kitbagjs/router)
-6. ❗ Opened issue [#508](https://github.com/posva/unplugin-vue-router/issues/508) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-7. 🗣 Commented on [#493](https://github.com/usebruno/bruno/pull/493#issuecomment-2330759929) in [usebruno/bruno](https://github.com/usebruno/bruno)
-8. ❗ Opened issue [#1847](https://github.com/usebruno/bruno/issues/1847) in [usebruno/bruno](https://github.com/usebruno/bruno)
+1. 🗣 Commented on [#376](https://github.com/drizzle-team/drizzle-orm/issues/376#issuecomment-2469332128) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+2. ❗ Opened issue [#1039](https://github.com/Vuepic/vue-datepicker/issues/1039) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
+3. 🗣 Commented on [#748](https://github.com/unovue/shadcn-vue/issues/748#issuecomment-2434337544) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
+4. 🗣 Commented on [#6963](https://github.com/hcengineering/platform/issues/6963#issuecomment-2424399475) in [hcengineering/platform](https://github.com/hcengineering/platform)
+5. 🗣 Commented on [#29075](https://github.com/nuxt/nuxt/issues/29075#issuecomment-2374580794) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
+6. 💪 Opened PR [#264](https://github.com/kitbagjs/router/pull/264) in [kitbagjs/router](https://github.com/kitbagjs/router)
+7. ❗ Opened issue [#508](https://github.com/posva/unplugin-vue-router/issues/508) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+8. 🗣 Commented on [#493](https://github.com/usebruno/bruno/pull/493#issuecomment-2330759929) in [usebruno/bruno](https://github.com/usebruno/bruno)
 9. 🗣 Commented on [#3942](https://github.com/vuejs/language-tools/issues/3942#issuecomment-1975633393) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 10. ❗ Opened issue [#4661](https://github.com/logaretm/vee-validate/issues/4661) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
 <!--END_SECTION:activity-->
