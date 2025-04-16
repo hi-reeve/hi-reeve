@@ -35,7 +35,7 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#115](https://github.com/posva/pinia-colada/issues/115) in [posva/pinia-colada](https://github.com/posva/pinia-colada)
+1. ❗ Opened issue [#469](https://github.com/nuxt-modules/strapi/issues/469) in [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi)
 2. 🗣 Commented on [#376](https://github.com/drizzle-team/drizzle-orm/issues/376#issuecomment-2469332128) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 3. ❗ Opened issue [#1039](https://github.com/Vuepic/vue-datepicker/issues/1039) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
 4. 🗣 Commented on [#748](https://github.com/unovue/shadcn-vue/issues/748#issuecomment-2434337544) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
