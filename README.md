@@ -35,8 +35,8 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#196](https://github.com/kysely-org/kysely-ctl/issues/196) in [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl)
-2. 🗣 Commented on [#376](https://github.com/drizzle-team/drizzle-orm/issues/376#issuecomment-2469332128) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. 🗣 Commented on [#196](https://github.com/kysely-org/kysely-ctl/issues/196#issuecomment-2888625760) in [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl)
+2. ❗ Opened issue [#196](https://github.com/kysely-org/kysely-ctl/issues/196) in [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl)
 3. ❗ Opened issue [#1039](https://github.com/Vuepic/vue-datepicker/issues/1039) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
 4. 🗣 Commented on [#748](https://github.com/unovue/shadcn-vue/issues/748#issuecomment-2434337544) in [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue)
 5. 🗣 Commented on [#6963](https://github.com/hcengineering/platform/issues/6963#issuecomment-2424399475) in [hcengineering/platform](https://github.com/hcengineering/platform)
