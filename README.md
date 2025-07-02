@@ -35,9 +35,9 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2087](https://github.com/nestjs/nest-cli/pull/2087#issuecomment-2995755900) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
-2. 🗣 Commented on [#171](https://github.com/formwerkjs/formwerk/issues/171#issuecomment-2960860326) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-3. 🗣 Commented on [#196](https://github.com/kysely-org/kysely-ctl/issues/196#issuecomment-2888704853) in [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl)
+1. ❗ Opened issue [#183](https://github.com/formwerkjs/formwerk/issues/183) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+2. 🗣 Commented on [#2087](https://github.com/nestjs/nest-cli/pull/2087#issuecomment-2995755900) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
+3. 🗣 Commented on [#171](https://github.com/formwerkjs/formwerk/issues/171#issuecomment-2960860326) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
 4. 🗣 Commented on [#196](https://github.com/kysely-org/kysely-ctl/issues/196#issuecomment-2888625760) in [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl)
 5. ❗ Opened issue [#196](https://github.com/kysely-org/kysely-ctl/issues/196) in [kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl)
 6. 🗣 Commented on [#29075](https://github.com/nuxt/nuxt/issues/29075#issuecomment-2374580794) in [nuxt/nuxt](https://github.com/nuxt/nuxt)
