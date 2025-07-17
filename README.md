@@ -35,15 +35,15 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#188](https://github.com/formwerkjs/formwerk/issues/188) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-2. ❗ Opened issue [#188](https://github.com/formwerkjs/formwerk/issues/188) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-3. ❗ Opened issue [#187](https://github.com/formwerkjs/formwerk/issues/187) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-4. 🗣 Commented on [#183](https://github.com/formwerkjs/formwerk/issues/183#issuecomment-3077233114) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-5. 🗣 Commented on [#136](https://github.com/xiaoluoboding/vue-sonner/pull/136#issuecomment-3076335243) in [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)
-6. 🗣 Commented on [#1014](https://github.com/nuxt/test-utils/issues/1014#issuecomment-3051012268) in [nuxt/test-utils](https://github.com/nuxt/test-utils)
-7. ❗ Opened issue [#183](https://github.com/formwerkjs/formwerk/issues/183) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-8. 🗣 Commented on [#2087](https://github.com/nestjs/nest-cli/pull/2087#issuecomment-2995755900) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
-9. 🗣 Commented on [#493](https://github.com/usebruno/bruno/pull/493#issuecomment-2330759929) in [usebruno/bruno](https://github.com/usebruno/bruno)
+1. 🗣 Commented on [#1822](https://github.com/anthropics/claude-code/issues/1822#issuecomment-3082331195) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🔒 Closed issue [#188](https://github.com/formwerkjs/formwerk/issues/188) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+3. ❗ Opened issue [#188](https://github.com/formwerkjs/formwerk/issues/188) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+4. ❗ Opened issue [#187](https://github.com/formwerkjs/formwerk/issues/187) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+5. 🗣 Commented on [#183](https://github.com/formwerkjs/formwerk/issues/183#issuecomment-3077233114) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+6. 🗣 Commented on [#136](https://github.com/xiaoluoboding/vue-sonner/pull/136#issuecomment-3076335243) in [xiaoluoboding/vue-sonner](https://github.com/xiaoluoboding/vue-sonner)
+7. 🗣 Commented on [#1014](https://github.com/nuxt/test-utils/issues/1014#issuecomment-3051012268) in [nuxt/test-utils](https://github.com/nuxt/test-utils)
+8. ❗ Opened issue [#183](https://github.com/formwerkjs/formwerk/issues/183) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+9. 🗣 Commented on [#2087](https://github.com/nestjs/nest-cli/pull/2087#issuecomment-2995755900) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
 10. ❗ Opened issue [#4661](https://github.com/logaretm/vee-validate/issues/4661) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
 <!--END_SECTION:activity-->
 
