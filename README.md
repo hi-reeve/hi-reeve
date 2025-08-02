@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3144052443) in [nuxt/ui](https://github.com/nuxt/ui)
-2. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3140570230) in [nuxt/ui](https://github.com/nuxt/ui)
-3. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3120929160) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-4. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3117060469) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-5. 💪 Opened PR [#195](https://github.com/formwerkjs/formwerk/pull/195) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-6. ❗ Opened issue [#194](https://github.com/formwerkjs/formwerk/issues/194) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-7. 🗣 Commented on [#192](https://github.com/formwerkjs/formwerk/pull/192#issuecomment-3095119106) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-8. 💪 Opened PR [#189](https://github.com/formwerkjs/formwerk/pull/189) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-9. 🗣 Commented on [#1822](https://github.com/anthropics/claude-code/issues/1822#issuecomment-3082331195) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-10. 🔒 Closed issue [#188](https://github.com/formwerkjs/formwerk/issues/188) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+1. ❗ Opened issue [#344](https://github.com/posva/pinia-colada/issues/344) in [posva/pinia-colada](https://github.com/posva/pinia-colada)
+2. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3144052443) in [nuxt/ui](https://github.com/nuxt/ui)
+3. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3140570230) in [nuxt/ui](https://github.com/nuxt/ui)
+4. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3120929160) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+5. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3117060469) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+6. 💪 Opened PR [#195](https://github.com/formwerkjs/formwerk/pull/195) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+7. ❗ Opened issue [#194](https://github.com/formwerkjs/formwerk/issues/194) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+8. 🗣 Commented on [#192](https://github.com/formwerkjs/formwerk/pull/192#issuecomment-3095119106) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+9. 💪 Opened PR [#189](https://github.com/formwerkjs/formwerk/pull/189) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+10. 🗣 Commented on [#1822](https://github.com/anthropics/claude-code/issues/1822#issuecomment-3082331195) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 <hr/>
