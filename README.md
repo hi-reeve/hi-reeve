@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/formwerkjs/formwerk/issues/196#issuecomment-3149245238) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-2. ❗ Opened issue [#196](https://github.com/formwerkjs/formwerk/issues/196) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-3. ❗ Opened issue [#344](https://github.com/posva/pinia-colada/issues/344) in [posva/pinia-colada](https://github.com/posva/pinia-colada)
-4. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3144052443) in [nuxt/ui](https://github.com/nuxt/ui)
-5. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3140570230) in [nuxt/ui](https://github.com/nuxt/ui)
-6. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3120929160) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-7. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3117060469) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-8. 💪 Opened PR [#195](https://github.com/formwerkjs/formwerk/pull/195) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-9. ❗ Opened issue [#194](https://github.com/formwerkjs/formwerk/issues/194) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-10. 🗣 Commented on [#192](https://github.com/formwerkjs/formwerk/pull/192#issuecomment-3095119106) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+1. ❗ Opened issue [#504](https://github.com/samchungy/zod-openapi/issues/504) in [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi)
+2. 🗣 Commented on [#196](https://github.com/formwerkjs/formwerk/issues/196#issuecomment-3149245238) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+3. ❗ Opened issue [#196](https://github.com/formwerkjs/formwerk/issues/196) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+4. ❗ Opened issue [#344](https://github.com/posva/pinia-colada/issues/344) in [posva/pinia-colada](https://github.com/posva/pinia-colada)
+5. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3144052443) in [nuxt/ui](https://github.com/nuxt/ui)
+6. 🗣 Commented on [#3826](https://github.com/nuxt/ui/issues/3826#issuecomment-3140570230) in [nuxt/ui](https://github.com/nuxt/ui)
+7. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3120929160) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+8. 🗣 Commented on [#194](https://github.com/formwerkjs/formwerk/issues/194#issuecomment-3117060469) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+9. 💪 Opened PR [#195](https://github.com/formwerkjs/formwerk/pull/195) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+10. ❗ Opened issue [#194](https://github.com/formwerkjs/formwerk/issues/194) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
 <!--END_SECTION:activity-->
 
 <hr/>
