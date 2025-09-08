@@ -42,8 +42,8 @@
 5. 🔒 Closed issue [#139](https://github.com/rhinobase/hono-openapi/issues/139) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
 6. 🗣 Commented on [#139](https://github.com/rhinobase/hono-openapi/issues/139#issuecomment-3182795521) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
 7. ❗ Opened issue [#139](https://github.com/rhinobase/hono-openapi/issues/139) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
-8. 🗣 Commented on [#504](https://github.com/samchungy/zod-openapi/issues/504#issuecomment-3182079050) in [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi)
-9. 🔒 Closed issue [#504](https://github.com/samchungy/zod-openapi/issues/504) in [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi)
+8. 🔒 Closed issue [#504](https://github.com/samchungy/zod-openapi/issues/504) in [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi)
+9. 🗣 Commented on [#504](https://github.com/samchungy/zod-openapi/issues/504#issuecomment-3182079050) in [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi)
 10. 🗣 Commented on [#130](https://github.com/rhinobase/hono-openapi/issues/130#issuecomment-3182065111) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
 <!--END_SECTION:activity-->
 
