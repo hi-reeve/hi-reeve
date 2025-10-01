@@ -35,8 +35,8 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/serkodev/nuxt-pages-plus/issues/19#issuecomment-3222169180) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-2. 🗣 Commented on [#197](https://github.com/formwerkjs/formwerk/issues/197#issuecomment-3191195898) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+1. 🔒 Closed issue [#226](https://github.com/formwerkjs/formwerk/issues/226) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+2. ❗ Opened issue [#226](https://github.com/formwerkjs/formwerk/issues/226) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
 3. 🗣 Commented on [#197](https://github.com/formwerkjs/formwerk/issues/197#issuecomment-3190488169) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
 4. 🗣 Commented on [#139](https://github.com/rhinobase/hono-openapi/issues/139#issuecomment-3182828981) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
 5. 🔒 Closed issue [#139](https://github.com/rhinobase/hono-openapi/issues/139) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
