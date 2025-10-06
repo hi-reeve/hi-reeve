@@ -35,15 +35,15 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3363901210) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-2. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3363888552) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-3. 🔒 Closed issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-4. ❗ Opened issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-5. 🔒 Closed issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-6. ❗ Opened issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-7. 🔒 Closed issue [#226](https://github.com/formwerkjs/formwerk/issues/226) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-8. ❗ Opened issue [#226](https://github.com/formwerkjs/formwerk/issues/226) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
-9. 🔒 Closed issue [#504](https://github.com/samchungy/zod-openapi/issues/504) in [samchungy/zod-openapi](https://github.com/samchungy/zod-openapi)
+1. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3369916052) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+2. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3363901210) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+3. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3363888552) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+4. 🔒 Closed issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+5. ❗ Opened issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+6. 🔒 Closed issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+7. ❗ Opened issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+8. 🔒 Closed issue [#226](https://github.com/formwerkjs/formwerk/issues/226) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
+9. ❗ Opened issue [#226](https://github.com/formwerkjs/formwerk/issues/226) in [formwerkjs/formwerk](https://github.com/formwerkjs/formwerk)
 10. 🗣 Commented on [#130](https://github.com/rhinobase/hono-openapi/issues/130#issuecomment-3182065111) in [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi)
 <!--END_SECTION:activity-->
 
