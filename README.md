@@ -35,9 +35,9 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#963](https://github.com/nuxt-modules/storybook/issues/963#issuecomment-3499961090) in [nuxt-modules/storybook](https://github.com/nuxt-modules/storybook)
-2. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3400251633) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-3. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3363901210) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+1. 🗣 Commented on [#455](https://github.com/atinux/nuxt-auth-utils/issues/455#issuecomment-3511154971) in [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils)
+2. 🗣 Commented on [#963](https://github.com/nuxt-modules/storybook/issues/963#issuecomment-3499961090) in [nuxt-modules/storybook](https://github.com/nuxt-modules/storybook)
+3. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3400251633) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
 4. 🔒 Closed issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
 5. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3363888552) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
 6.  Labeled issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
