@@ -35,7 +35,7 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#455](https://github.com/atinux/nuxt-auth-utils/issues/455#issuecomment-3511154971) in [atinux/nuxt-auth-utils](https://github.com/atinux/nuxt-auth-utils)
+1. 🗣 Commented on [#7251](https://github.com/better-auth/better-auth/pull/7251#issuecomment-3793326175) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 2. 🗣 Commented on [#963](https://github.com/nuxt-modules/storybook/issues/963#issuecomment-3499961090) in [nuxt-modules/storybook](https://github.com/nuxt-modules/storybook)
 3. 🗣 Commented on [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25#issuecomment-3400251633) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
 4. 🔒 Closed issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
