@@ -35,7 +35,7 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35546](https://github.com/storybookjs/storybook/issues/35546#issuecomment-5056079174) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ❗ Opened issue [#11](https://github.com/vianziro/Whatsapp-Dekstop/issues/11) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
 2. 🎉 Merged PR [#2](https://github.com/denvelop/denvelop/pull/2) in [denvelop/denvelop](https://github.com/denvelop/denvelop)
 3. 💪 Opened PR [#2](https://github.com/denvelop/denvelop/pull/2) in [denvelop/denvelop](https://github.com/denvelop/denvelop)
 4. 💪 Opened PR [#1](https://github.com/denvelop/denvelop/pull/1) in [denvelop/denvelop](https://github.com/denvelop/denvelop)
