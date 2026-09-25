@@ -35,9 +35,9 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/vianziro/Whatsapp-Dekstop/issues/11) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-2. 🎉 Merged PR [#2](https://github.com/denvelop/denvelop/pull/2) in [denvelop/denvelop](https://github.com/denvelop/denvelop)
-3. 💪 Opened PR [#2](https://github.com/denvelop/denvelop/pull/2) in [denvelop/denvelop](https://github.com/denvelop/denvelop)
+1. ℹ️ Labeled issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+2. ❗ Opened issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+3. ❗ Opened issue [#11](https://github.com/vianziro/Whatsapp-Dekstop/issues/11) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
 4. 💪 Opened PR [#1](https://github.com/denvelop/denvelop/pull/1) in [denvelop/denvelop](https://github.com/denvelop/denvelop)
 5. 🗣 Commented on [#63](https://github.com/jaanonim/obsidian-youversion-linker/pull/63#issuecomment-4569804144) in [jaanonim/obsidian-youversion-linker](https://github.com/jaanonim/obsidian-youversion-linker)
 6.  Labeled issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
