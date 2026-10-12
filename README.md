@@ -35,12 +35,12 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-6108309672) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-2. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-5980002882) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-3. ℹ️ Labeled issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-4. ❗ Opened issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-5. ❗ Opened issue [#11](https://github.com/vianziro/Whatsapp-Dekstop/issues/11) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-6.  Labeled issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+1. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-6119460131) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+2. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-6108309672) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+3. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-5980002882) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+4. ℹ️ Labeled issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+5. ❗ Opened issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
+6. ❗ Opened issue [#11](https://github.com/vianziro/Whatsapp-Dekstop/issues/11) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
 7. ❗ Opened issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
 8. 🔒 Closed issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
 9.  Labeled issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
