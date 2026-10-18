@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-6119460131) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-2. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-6108309672) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-3. 🗣 Commented on [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57#issuecomment-5980002882) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-4. ℹ️ Labeled issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-5. ❗ Opened issue [#57](https://github.com/vianziro/Whatsapp-Dekstop/issues/57) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-6. ❗ Opened issue [#11](https://github.com/vianziro/Whatsapp-Dekstop/issues/11) in [vianziro/Whatsapp-Dekstop](https://github.com/vianziro/Whatsapp-Dekstop)
-7. ❗ Opened issue [#25](https://github.com/serkodev/nuxt-pages-plus/issues/25) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-8. 🔒 Closed issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-9.  Labeled issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
-10. ❗ Opened issue [#24](https://github.com/serkodev/nuxt-pages-plus/issues/24) in [serkodev/nuxt-pages-plus](https://github.com/serkodev/nuxt-pages-plus)
+1. ℹ️ Labeled issue [#89](https://github.com/hi-reeve/personal-finance-app/issues/89) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+2. ℹ️ Labeled issue [#89](https://github.com/hi-reeve/personal-finance-app/issues/89) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+3. ℹ️ Labeled issue [#89](https://github.com/hi-reeve/personal-finance-app/issues/89) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+4. ❗ Opened issue [#89](https://github.com/hi-reeve/personal-finance-app/issues/89) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+5. ℹ️ Labeled issue [#88](https://github.com/hi-reeve/personal-finance-app/issues/88) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+6. ℹ️ Labeled issue [#88](https://github.com/hi-reeve/personal-finance-app/issues/88) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+7. ℹ️ Labeled issue [#88](https://github.com/hi-reeve/personal-finance-app/issues/88) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+8. ❗ Opened issue [#88](https://github.com/hi-reeve/personal-finance-app/issues/88) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+9. ℹ️ Labeled issue [#87](https://github.com/hi-reeve/personal-finance-app/issues/87) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+10. ℹ️ Labeled issue [#87](https://github.com/hi-reeve/personal-finance-app/issues/87) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
 <!--END_SECTION:activity-->
 
 <hr/>
