@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112](https://github.com/hi-reeve/personal-finance-app/pull/112) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-2. 🎉 Merged PR [#111](https://github.com/hi-reeve/personal-finance-app/pull/111) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-3. 🔒 Closed issue [#53](https://github.com/hi-reeve/personal-finance-app/issues/53) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-4. 💪 Opened PR [#111](https://github.com/hi-reeve/personal-finance-app/pull/111) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-5. 🗣 Commented on [#52](https://github.com/hi-reeve/personal-finance-app/issues/52#issuecomment-6307925251) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-6. 🗣 Commented on [#50](https://github.com/hi-reeve/personal-finance-app/issues/50#issuecomment-6307716837) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-7. 🔒 Closed issue [#52](https://github.com/hi-reeve/personal-finance-app/issues/52) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-8. 🎉 Merged PR [#110](https://github.com/hi-reeve/personal-finance-app/pull/110) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-9. 💪 Opened PR [#110](https://github.com/hi-reeve/personal-finance-app/pull/110) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
-10. 🎉 Merged PR [#109](https://github.com/hi-reeve/personal-finance-app/pull/109) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+1. 🎉 Merged PR [#114](https://github.com/hi-reeve/personal-finance-app/pull/114) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+2. 🔒 Closed issue [#51](https://github.com/hi-reeve/personal-finance-app/issues/51) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+3. 💪 Opened PR [#114](https://github.com/hi-reeve/personal-finance-app/pull/114) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+4. 🎉 Merged PR [#113](https://github.com/hi-reeve/personal-finance-app/pull/113) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+5. 🔒 Closed issue [#55](https://github.com/hi-reeve/personal-finance-app/issues/55) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+6. 💪 Opened PR [#113](https://github.com/hi-reeve/personal-finance-app/pull/113) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+7. 🎉 Merged PR [#112](https://github.com/hi-reeve/personal-finance-app/pull/112) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+8. 🔒 Closed issue [#54](https://github.com/hi-reeve/personal-finance-app/issues/54) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+9. 💪 Opened PR [#112](https://github.com/hi-reeve/personal-finance-app/pull/112) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
+10. 🎉 Merged PR [#111](https://github.com/hi-reeve/personal-finance-app/pull/111) in [hi-reeve/personal-finance-app](https://github.com/hi-reeve/personal-finance-app)
 <!--END_SECTION:activity-->
 
 <hr/>
